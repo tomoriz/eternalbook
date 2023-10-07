@@ -288,7 +288,7 @@ img {
   overflow: hidden;
 }
 .cover-img {
-  background-image: url("images/msg-990880712-1701.jpg");
+  background-image: url("../images/msg-990880712-1701.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
